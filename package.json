@@ -1,6 +1,6 @@
 {
   "name": "data-transfer-object-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package provides Data Transfer Object functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Szqii/native-dto.git"
+    "url": "git+https://github.com/Szqii/data-transfer-object-ts.git"
   },
   "keywords": [
     "dto",
